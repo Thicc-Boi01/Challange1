@@ -1,0 +1,16 @@
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\Challange1\bin\Debug\net5.0\Challange1.exe
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\Challange1\bin\Debug\net5.0\Challange1.deps.json
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\Challange1\bin\Debug\net5.0\Challange1.runtimeconfig.json
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\Challange1\bin\Debug\net5.0\Challange1.runtimeconfig.dev.json
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\Challange1\bin\Debug\net5.0\Challange1.dll
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\Challange1\bin\Debug\net5.0\ref\Challange1.dll
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\Challange1\bin\Debug\net5.0\Challange1.pdb
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\Challange1\obj\Debug\net5.0\Challange1.csprojAssemblyReference.cache
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\Challange1\obj\Debug\net5.0\Challange1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\Challange1\obj\Debug\net5.0\Challange1.AssemblyInfoInputs.cache
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\Challange1\obj\Debug\net5.0\Challange1.AssemblyInfo.cs
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\Challange1\obj\Debug\net5.0\Challange1.csproj.CoreCompileInputs.cache
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\Challange1\obj\Debug\net5.0\Challange1.dll
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\Challange1\obj\Debug\net5.0\ref\Challange1.dll
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\Challange1\obj\Debug\net5.0\Challange1.pdb
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\Challange1\obj\Debug\net5.0\Challange1.genruntimeconfig.cache
