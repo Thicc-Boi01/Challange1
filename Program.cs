@@ -61,9 +61,9 @@ namespace Challange1
             Convert.ToInt32(sum);
             Console.WriteLine(sum);
 
-            Console.WriteLine("Here is a list of all the rolls:");
+            Console.WriteLine("Here is a list of the first " + rollexa + " rolls:");
 
-            foreach (int i in rollhist)
+            foreach (int i in NewList)
             {
                 Console.Write(i + ",");
             }
